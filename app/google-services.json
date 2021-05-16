@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072149888577",
+    "project_id": "farmlyapp1",
+    "storage_bucket": "farmlyapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072149888577:android:a8850f0811e3fad1ea90c0",
+        "android_client_info": {
+          "package_name": "com.example.farmlyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072149888577-32rmacdfvv52eolp6798vj41ua1v8cik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSyoR-RvFFcXClNS44eRKvIrMzZ_nGuII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072149888577-32rmacdfvv52eolp6798vj41ua1v8cik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
